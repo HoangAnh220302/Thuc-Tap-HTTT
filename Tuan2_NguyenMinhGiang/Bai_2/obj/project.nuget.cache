@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ImkJQ148nLUsf/7EDrjBODkvzlatsmyBJgjgwBAYNkmw7RT2M7pDVP1Ql/pv0PiBdNIvRCcIQyPV9AXn4tsyMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Documents\\C#\\Bai 2\\Nguyen Hoang Anh 2020606824 BT tren lop\\Bai_2\\Bai_2\\Bai_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
