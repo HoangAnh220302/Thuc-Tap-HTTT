@@ -1,0 +1,14 @@
+D:\Kì 5\.Net\Buoi2\Bai2\obj\Debug\netcoreapp3.1\Bai2.csproj.AssemblyReference.cache
+D:\Kì 5\.Net\Buoi2\Bai2\obj\Debug\netcoreapp3.1\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 5\.Net\Buoi2\Bai2\obj\Debug\netcoreapp3.1\Bai2.AssemblyInfoInputs.cache
+D:\Kì 5\.Net\Buoi2\Bai2\obj\Debug\netcoreapp3.1\Bai2.AssemblyInfo.cs
+D:\Kì 5\.Net\Buoi2\Bai2\obj\Debug\netcoreapp3.1\Bai2.csproj.CoreCompileInputs.cache
+D:\Kì 5\.Net\Buoi2\Bai2\bin\Debug\netcoreapp3.1\Bai2.exe
+D:\Kì 5\.Net\Buoi2\Bai2\bin\Debug\netcoreapp3.1\Bai2.deps.json
+D:\Kì 5\.Net\Buoi2\Bai2\bin\Debug\netcoreapp3.1\Bai2.runtimeconfig.json
+D:\Kì 5\.Net\Buoi2\Bai2\bin\Debug\netcoreapp3.1\Bai2.runtimeconfig.dev.json
+D:\Kì 5\.Net\Buoi2\Bai2\bin\Debug\netcoreapp3.1\Bai2.dll
+D:\Kì 5\.Net\Buoi2\Bai2\bin\Debug\netcoreapp3.1\Bai2.pdb
+D:\Kì 5\.Net\Buoi2\Bai2\obj\Debug\netcoreapp3.1\Bai2.dll
+D:\Kì 5\.Net\Buoi2\Bai2\obj\Debug\netcoreapp3.1\Bai2.pdb
+D:\Kì 5\.Net\Buoi2\Bai2\obj\Debug\netcoreapp3.1\Bai2.genruntimeconfig.cache
